@@ -1,2 +1,3 @@
 # EjemploPVE
-Un ejemplo
+Un ejemplo de clase
+
